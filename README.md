@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Balu Ram Kumawat</h1>
 <h3 align="center">Full Stack Web developer | NodeJS | Javascript</h3>
-
+<p align="center">Hardworking and passionate job seeker with strong
+organizational skills eager to secure entry-level Full-Stack
+Web Developer position in challenging environment. Ready
+to help team achieve company goals.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baluramk6&label=Profile%20views&color=0e75b6&style=flat" alt="baluramk6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baluramk6" alt="baluramk6" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/baluramk6" target="blank"><img src="https://img.shields.io/twitter/follow/baluramk6?logo=twitter&style=for-the-badge" alt="baluramk6" /></a> </p>
 
