@@ -12,11 +12,11 @@ to help team achieve company goals.</p>
 
 - 👨‍💻 All of my projects are available at [**Netlify**](https://app.netlify.com/teams/baluramk6/sites)
 
-- 💬 Ask me about **Javascript, Nodejs, DOM**
-
 - 📫 How to reach me **baluramk6@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1RS9R7sH9iuJTU65IqngWxdcNcBdv4IDm/view?usp=sharing)
+ 
+- 💬 Ask me about **Javascript, Nodejs, DOM** 
 
 - ⚡ Fun fact **I love play cricket**
 
