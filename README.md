@@ -40,17 +40,13 @@ Hardworking🚀 and passionate job seeker with strong organizational skills🛠�
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=baluramk6&show_icons=true&locale=en" alt="baluramk6" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baluramk6&" alt="baluramk6" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baluramk6&show_icons=true&locale=en&layout=compact" alt="baluramk6" /></p>
 
 
 
 
-
-
-
 <br>
-
 <!-- ### 🛠️ My Projects
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
