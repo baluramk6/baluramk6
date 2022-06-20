@@ -38,7 +38,7 @@ Hardworking🚀 and passionate job seeker with strong organizational skills🛠�
 ### 📊 Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=baluramk6&show_icons=true&locale=en" alt="baluramk6" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baluramk6&" alt="baluramk6" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baluramk6&show_icons=true&locale=en&layout=compact" alt="baluramk6" /></p>
