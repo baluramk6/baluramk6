@@ -8,24 +8,17 @@
 Hardworking🚀 and passionate job seeker with strong organizational skills🛠️ eager to secure entry-level Full-Stack Web Developer🌐 position in challenging🧩 environment. Ready to help🤝 team achieve company goals🎯.
 
 <br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-- 🌱 I’m currently learning **Full-stack web devlopment**
-- 👨‍💻 All of my projects are available at [**Netlify**](https://app.netlify.com/teams/baluramk6/sites)
-- 📫 How to reach me **baluramk6@gmail.com**
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1RS9R7sH9iuJTU65IqngWxdcNcBdv4IDm/view?usp=sharing)
-- 💬 Ask me about **Javascript, Nodejs, DOM** 
-- ⚡ Fun fact **I love play cricket**
+- 🌱 I’m currently learning **Full-stack web devlopment** <br><br>
+- 👨‍💻 All of my projects are available at [**Netlify**](https://app.netlify.com/teams/baluramk6/sites) <br><br>
+- 📫 How to reach me **baluramk6@gmail.com** <br><br>
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1RS9R7sH9iuJTU65IqngWxdcNcBdv4IDm/view?usp=sharing) <br><br>
+- 💬 Ask me about **Javascript, Nodejs, DOM** <br><br>
+- ⚡ Fun fact **I love play cricket** <br><br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="" target="_blank"> <img align="left" src="./assets/icons/js.png" alt="javascript" height="38px" width="38px"/> </a>
