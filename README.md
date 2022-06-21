@@ -1,8 +1,8 @@
 # Hey 👋, I'm Balu Ram!
 ### Full-Stack Developer
-<a href='https://www.linkedin.com/in/baluramk6/' target='_blank'><img align='left' alt="linkedin" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655716328~hmac=779360d7fa10143416851fe4d9ca47a9" height='25px' width='25px'/></a>
-<a href='https://twitter.com/baluramk6' target='_blank'><img align='left' alt="twitter" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1655716328~hmac=17d3392b375e6615422635a5a8f54700" height='25px' width='25px'/></a>
-<a href='https://www.instagram.com/baluramk6/' target='_blank'><img align='left' alt="instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height='25px' width='25px'/></a>
+<a href='https://www.linkedin.com/in/baluramk6/' target='_blank'><img align='left' alt="linkedin" src="./assets/icons/linkedin.png" height='25px' width='25px'/></a>
+<a href='https://twitter.com/baluramk6' target='_blank'><img align='left' alt="twitter" src="./assets/icons/twitter.png" height='25px' width='25px'/></a>
+<a href='https://www.instagram.com/baluramk6/' target='_blank'><img align='left' alt="instagram" src="./assets/icons/instagram.png" height='25px' width='25px'/></a>
 <br/>
 <br/>
 Hardworking🚀 and passionate job seeker with strong organizational skills🛠️ eager to secure entry-level Full-Stack Web Developer🌐 position in challenging🧩 environment. Ready to help🤝 team achieve company goals🎯.
