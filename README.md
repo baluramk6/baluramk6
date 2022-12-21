@@ -16,7 +16,7 @@ Hardworking🚀 and passionate job seeker with strong organizational skills🛠�
 - 👨‍💻 All of my projects are available at [**Netlify**](https://app.netlify.com/teams/baluramk6/sites) <br><br>
 - 📫 How to reach me **baluramk6@gmail.com** <br><br>
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1RS9R7sH9iuJTU65IqngWxdcNcBdv4IDm/view?usp=sharing) <br><br>
-- 💬 Ask me about **Javascript, Nodejs, DOM** <br><br>
+- 💬 Ask me about **Javascript, React, Nodejs** <br><br>
 - ⚡ Fun fact **I love play cricket** <br><br>
 
 
