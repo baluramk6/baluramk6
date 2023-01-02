@@ -32,6 +32,7 @@ Hardworking🚀 and passionate job seeker with strong organizational skills🛠�
 <a href="" target="_blank"> <img align="left" src="./assets/icons/heroku.png" alt="heroku" height="42px" width="42px"/> </a>
 <a href="" target="_blank"> <img align="left" src="./assets/icons/linux.png" alt="linux" height="42px" width="42px"/> </a>
 <a href="" target="_blank"> <img align="left" src="./assets/icons/canva.png" alt="canva" height="42px" width="42px"/> </a>
+<a href="" target="_blank"> <img align="left" src="./assets/icons/typescript-icon.png" alt="TypeScript" height="42px" width="42px"/> </a>
 <br>
 <br>
 <br>
