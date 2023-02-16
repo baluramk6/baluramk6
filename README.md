@@ -1,5 +1,5 @@
 # Hey 👋, I'm Balu Ram!
-### Full-Stack Developer.
+### MERN Stack Developer.
 <a href='https://www.linkedin.com/in/baluramk6/' target='_blank'><img align='left' alt="linkedin" src="./assets/icons/linkedin.png" height='25px' width='25px'/></a>
 <a href='https://twitter.com/baluramk6' target='_blank'><img align='left' alt="twitter" src="./assets/icons/twitter.png" height='25px' width='25px'/></a>
 <a href='https://www.instagram.com/baluramk6/' target='_blank'><img align='left' alt="instagram" src="./assets/icons/instagram.png" height='25px' width='25px'/></a>
